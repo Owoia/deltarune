@@ -1,0 +1,74 @@
+.itchio:hover {
+    transform: scale(1.06)
+
+
+
+}
+
+.itchio {
+   color:transparent;
+   width: 233.75px;
+  height: 72px;
+  
+  background-size: cover;
+  
+  background-image: url('cssimages/itchio.svg');
+  background-color: transparent;
+  border: transparent;
+  font-size:xx-small;
+  cursor:pointer;
+  transition: 0.05s;
+   image-rendering: pixelated;
+   transition: 0.05s;
+   color:transparent;
+display: block;
+position:relative;
+}
+
+.itchio:active
+{
+    transform: scale(0.95)
+
+
+}
+
+
+
+
+
+
+
+
+
+.gb:hover {
+    transform: scale(1.03)
+
+
+
+}
+
+.gb {
+   color:transparent;
+   
+  
+  background-size: cover;
+  
+  background-image: url('cssimages/gamebanana.png');
+  background-color: transparent;
+  border: transparent;
+  font-size:xx-small;
+  cursor:pointer;
+  transition: 0.05s;
+   image-rendering: pixelated;
+   transition: 0.05s;
+   color:transparent;
+display: block;
+position:relative;
+}
+
+.gb:active
+{
+    transform: scale(0.98)
+
+
+}

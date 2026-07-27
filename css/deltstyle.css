@@ -1,0 +1,35 @@
+p {
+
+    font-family: deltarune;
+    font-weight:normal;
+    color:white;
+    font-size:xx-large;
+
+}
+
+h1 {
+
+    font-family: deltarune;
+    font-weight:normal;
+    color:#171717;
+    font-size:xx-large;
+
+}
+
+@font-face {
+    font-family: "deltarune";
+    src: url('fonts/main_mono.ttf');
+}
+
+
+body {
+
+
+    background-color: #000000;
+}
+
+push
+{
+
+    
+}

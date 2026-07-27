@@ -1,0 +1,108 @@
+p {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:white;
+    text-decoration-thickness: 5;
+
+
+}
+
+@font-face {
+    font-family: "comicsans";
+    src: url('fonts/COMIC.TTF');
+}
+
+
+
+.bbigap {
+   color:transparent;
+   width: 640px;
+  height: 360px;
+  
+  background-size: cover;
+  
+  background-image: url('cssimages/BBIGAPThumbnail.png');
+  background-color: transparent;
+  border: transparent;
+  font-size:xx-small;
+  cursor:pointer;
+  transition: 0.05s;
+  border-radius: 12px;
+   image-rendering: pixelated;
+   transition: 0.05s;
+   width: 46%;
+   min-height: 360px;
+   min-width: 480px;
+   color:transparent;
+    
+display: block;
+  
+}
+
+.retrostar {
+   color:transparent;
+   width: 394px;
+  height: 292px;
+  
+  background-size: cover;
+  
+  background-image: url('cssimages/retrostar.png');
+  background-color: transparent;
+  border: transparent;
+  font-size:xx-small;
+  cursor:pointer;
+  transition: 0.05s;
+  border-radius: 12px;
+   image-rendering: pixelated;
+   transition: 0.05s;
+   color:transparent;
+    
+display: block;
+  
+}
+
+.retrostar:hover {
+    transform: scale(1.03)
+
+
+
+}
+
+.retrostar:active
+{
+    transform: scale(0.98)
+
+
+}
+
+
+.bbigap:hover {
+    transform: scale(1.03)
+
+
+
+}
+
+.bbigap:active
+{
+    transform: scale(0.98)
+
+
+}
+
+
+.game
+{
+
+    width: 42%;
+    height: 42%;
+}
+
+.introvideo
+
+{
+position: relative;
+top: -5px;
+
+}

@@ -1,0 +1,75 @@
+p {
+
+    font-family: Arial;
+    color:black;
+
+
+}
+
+@font-face {
+    font-family: "comicsans";
+    src: url('fonts/COMIC.TTF');
+}
+
+.baldi {
+    
+   width: 201px;
+  height: 78px;
+  
+  background-size: cover;
+  
+  background-image: url('buttons/baldi.png');
+  background-color: transparent;
+  border: transparent;
+  font-family: "comicsans";
+  cursor:pointer;
+  transition: 0.05s;
+   image-rendering: pixelated;
+
+  
+}
+
+
+.baldi:hover {
+    background-image: url('buttons/baldihover.png');
+    transform: scale(1.1)
+
+
+
+}
+
+.baldi:active
+{
+    background-image: url('buttons/baldiclick.png');
+    transform: scale(0.94)
+
+
+}
+
+
+
+
+
+.baldishow
+{
+
+position: fixed;
+bottom: -20px;
+right: 0px;
+
+}
+
+
+.gameplay0
+{
+
+    width: 42%;
+    height: 42%;
+}
+
+html, body
+{
+
+
+
+}
