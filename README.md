@@ -1,3 +1,4 @@
+# Why are you here. Don't spoil the ARG.
 Hi. 
 PLEASE don't look through these files. 
 This is for the ARG, and I can't make it private and keep up the site without paying a fee monthly. 
