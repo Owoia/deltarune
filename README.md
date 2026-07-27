@@ -1,8 +1,2 @@
-# Why are you here. Don't spoil the ARG.
-Hi. 
-PLEASE don't look through these files. 
-This is for the ARG, and I can't make it private and keep up the site without paying a fee monthly. 
-DO NOT SPOIL WITH ANYTHING YOU FIND HERE.
-DO NOT SPOIL WITH ANYTHING YOU FIND HERE.
-DO NOT SPOIL WITH ANYTHING YOU FIND HERE.
-DO NOT SPOIL WITH ANYTHING YOU FIND HERE.
+# GET OUT YOU'RE NOT MEANT TO BE HERE!!! THIS ISN'T A PART OF THE ARG GET OUTTTTTTT!!!!!!!!!!!!!!!!!!!
+This is for the ARG, and I can't make it private and keep up the site without paying a fee monthly.
