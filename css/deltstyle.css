@@ -16,6 +16,13 @@ h1 {
 
 }
 
+a {
+
+    font-family: deltarune;
+    color:white;
+    font-size:small;
+}
+
 @font-face {
     font-family: "deltarune";
     src: url('fonts/main_mono.ttf');
